@@ -45,3 +45,7 @@ p{
 li::marker{
     color: black;
 }
+
+footer img{
+    vertical-align: middle;
+}
