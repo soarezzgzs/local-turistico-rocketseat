@@ -1,0 +1,47 @@
+#container{
+    margin: 88px auto;
+    width: 1120px;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 2rem;
+}
+.busan{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.busan img{
+    height: 660px;
+}
+.destino1 img,
+.destino2 img,
+.destino3 img{
+    height: 350px;
+}
+
+footer{
+    text-align: center;
+    padding: 24px;
+}
+
+p{
+    color: #696969;
+}
+
+#orcamento{
+    color: orange
+}
+#familias{
+    color: pink;
+}
+#casais{
+    color: purple;
+}
+
+#historia{
+    color: blue;
+}
+
+li::marker{
+    color: black;
+}
